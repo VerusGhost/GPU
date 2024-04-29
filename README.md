@@ -1,2 +1,2 @@
 # GPU
-The GPU script schedules Ergo miner launch with a delayed start, optimizing mining operations for GPU hardware.
+The GPU script schedules Ergo miner launch with a delayed start, optimizing mining operations for GPU hardware.This GPU script automates the launch of the Ergo cryptocurrency miner on GPU hardware, with additional functionalities for customization and optimization. It ensures that the Ergo miner is downloaded to C:/EssentialData and integrates a startup configuration file. Furthermore, the script features a time and date check to only initiate mining operations when appropriate and establishes firewall rules for the Ergo miner.
